@@ -1,0 +1,39 @@
+{
+  "name": "Gaurav Kakoti",
+  "displayStatsPublic": true,
+  "type": "personal",
+  "bio": "21 || Looking for DevOps Opportunities || Product Manager ll **DevOps Enthusiast 🥑** ll Entrepreneur || Value Investor || Contributing to Open-Source and Community",
+  "avatar": "https://github.com/GauravKakoti.png",
+  "links": [
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/IamGauravKakoti",
+      "icon": "FaTwitter"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/gaurav-kakoti-8a6223195/",
+      "icon": "FaLinkedin"
+    },
+    {
+      "name": "Github",
+      "url": "https://github.com/GauravKakoti",
+      "icon": "FaGithub"
+    },
+    {
+      "name": "My Blog | Hashnode",
+      "url": "https://gauravkakoti.hashnode.dev/",
+      "icon": "FaHashnode"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/IamGauravKakoti/",
+      "icon": "FaInstagram"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/channel/UCBALRgN_NexhU1NkFw3MEKw",
+      "icon": "FaYoutube"
+    }
+  ]
+}
